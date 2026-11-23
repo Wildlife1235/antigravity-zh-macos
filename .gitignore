@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.asar
+*.asar.unpacked/
+*.app/
+.DS_Store
+build/
+dist/
